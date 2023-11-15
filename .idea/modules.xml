@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAOS - L15 -Concurrency/AfleveringConcurrency/Aflevering/Aflevering.iml" filepath="$PROJECT_DIR$/DAOS - L15 -Concurrency/AfleveringConcurrency/Aflevering/Aflevering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS - L15 -Concurrency/AfleveringConcurrency/AfleveringConcurrency.iml" filepath="$PROJECT_DIR$/DAOS - L15 -Concurrency/AfleveringConcurrency/AfleveringConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS - L08 - Setup/DAOS - L08 - Setup.iml" filepath="$PROJECT_DIR$/DAOS - L08 - Setup/DAOS - L08 - Setup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS - L15 -Concurrency/DAOS - L15 -Concurrency.iml" filepath="$PROJECT_DIR$/DAOS - L15 -Concurrency/DAOS - L15 -Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAOS SEM2.iml" filepath="$PROJECT_DIR$/DAOS SEM2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17 - Memory Management/L17 - Memory Management.iml" filepath="$PROJECT_DIR$/L17 - Memory Management/L17 - Memory Management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18 - Traad Opgave/L18 - Traad Opgave.iml" filepath="$PROJECT_DIR$/L18 - Traad Opgave/L18 - Traad Opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18 - Traad Opgave/opg1 - L18/opg1 - L18.iml" filepath="$PROJECT_DIR$/L18 - Traad Opgave/opg1 - L18/opg1 - L18.iml" />
+    </modules>
+  </component>
+</project>
